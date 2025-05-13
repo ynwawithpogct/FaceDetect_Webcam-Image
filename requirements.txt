@@ -1,0 +1,9 @@
+onnxruntime-gpu
+numpy
+pandas
+opencv-python
+insightface
+datetime
+fastapi
+uvicorn[standard]
+pydantic
